@@ -1,5 +1,8 @@
 # STM32L476-Custom-Board-Design
 
+This is a custom STM32L476 Board designed in KiCad to practice placing the MCU on a custom circuit.  I had this PCB manufactured, assembled it, and flashed it to confirm functionality.
+
+
 <img width="863" height="756" alt="image" src="https://github.com/user-attachments/assets/90ef10c7-889e-40df-b767-18b186d8b6fc" />
 
 
